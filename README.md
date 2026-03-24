@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:818cf8,100:a78bfa&height=200&section=header&text=Valentine%20Emmanuel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20%26%20Software%20Engineer&descAlignY=57&descColor=e0e7ff&descSize=19" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Valentine%20Emmanuel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20%26%20Software%20Engineer&descAlignY=57&descColor=e0e7ff&descSize=19" width="100%" />
 
 <br/>
 
@@ -119,4 +119,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:818cf8,100:a78bfa&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=footer" width="100%" />

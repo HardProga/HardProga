@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Valentine%20Emmanuel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20%26%20Software%20Engineer&descAlignY=57&descColor=e0e7ff&descSize=19" width="100%" />
 
 <br/>
 

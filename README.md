@@ -18,7 +18,7 @@
 ### 👋 Hey, I'm Valentine!
 
 - 🚀 **Mobile & Software Engineer** who loves shipping polished products
-- 🌐 Full-stack web dev with **Next.js**, **TypeScript** & **Tailwind CSS**Python**
+- 🌐 Full-stack web dev with **Next.js**, **TypeScript** & **Tailwind CSS** **Python**
 - 📱 Cross-platform mobile apps via **Flutter** & **React Native**
 - 🎨 Smooth UI animations with **Motion** (Framer Motion) & **Astro**
 - 🔗 Scalable APIs: **Node.js**, **GraphQL** & **REST**
